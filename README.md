@@ -2,4 +2,4 @@
 
 ST-GNN Visualisation
 
-[niels-Prins.github.io](niels-Prins.github.io)
+[niels-prins.github.io](niels-prins.github.io)
