@@ -1,4 +1,6 @@
 $(document).ready(function () {
+    $(".about").hide();
+    
     $("#openAbout").animate({ background: "none", color: "white" }, "slow", function () {
         $(this).removeClass("itemHighlight");
     })
